@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriel 👋
 
 ## 👨‍💻 About Me
-I'm a student with a passion for Maths, Physics and Computing. I'm currently engaged on my university studies.
+I'm a student with a passion for Computing, Maths and Physics . I'm currently engaged on my university studies.
 
 ## 🚀 Projects
 Here are some of the projects I'm proud of: 
